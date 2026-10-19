@@ -1,0 +1,92 @@
+# Peru Remote Work Hub — llms.txt
+
+> Peru Remote Work Hub is a verification-first resource for US companies hiring
+> remote workers in Latin America — especially Peru — and for the job seekers,
+> freelancers, and employers on both sides of that hiring.
+> Site name: "Peru Remote Work Hub". Picked domain: peruworkhub.com
+> (domain purchased 2026-10-17; live at peruworkhub.com since 2026-10-17).
+> The directory lists 47 verified company profiles (evidence supports 47, not 50).
+> The guides are filled in; any still-unverified item is marked "To be verified"
+> or "Not confirmed", never guessed.
+
+## Content policy
+
+- Every factual claim is meant to trace to a cited source, with a last-verified date.
+- "Verified" means the claim traces to a cited source that was checked.
+- "Not confirmed" means we do not have a citable source for the claim. It is
+  unknown — not assumed, not estimated, not filled in from a guess.
+- "To be verified" marks content that has not yet been checked against a source.
+- No fake claims, no invented facts, no fake reviews or social proof, no keyword spam.
+- No affiliate links yet. No sponsored listings yet. No signup forms that pretend to work.
+- No public submission forms, comments, user accounts, or user-generated content
+  of any kind. All content is published only through the build pipeline.
+- Guide pages touching legal, visa, or tax topics are checklists/guides verified
+  against official sources where stated — not legal or tax advice.
+- Staleness: profiles/comparisons older than the review threshold are flagged for
+  human re-check. Default threshold is 30 days; EOR pricing pages and newsletter
+  content use a tighter 7-day threshold. Flagging is automatic; confirmation is
+  by a person, never silent auto-update.
+
+## Site map
+
+- Home: /index.html — What the site is, who it is for, links to all sections.
+  Spanish translation: /index.es.html
+- Company Directory: /directory/index.html — 47 verified bilingual employer profiles,
+  grouped: direct employers with Peru-explicit evidence (25), direct employers with
+  Latin-America-level evidence only, Peru not named (11), and staffing firms,
+  not direct employers (11).
+  Spanish translation: /directory/index.es.html
+  - Direct employers, Peru-explicit: DotCMS, BairesDev, Encora, Globant,
+    Bertoni Solutions, SupportYourApp, Evernest, Flight CX, COVU, JobHire.AI,
+    Dynatrace, M3USA, Huzzle, Shift Esperanza, Salesforce, Bluelight Consulting,
+    Swapcard, Revolut, ScaleUp, RemoteVA, Storm Ideas, Precision Medicine Group,
+    INFUSE, Language Bear, Assistant Launch.
+  - Direct employers, Latin America only: Azumo, Softermii, Whippy, Mercor,
+    Peach Pilot, Toptal, Turing (worldwide-only: no Peru or Latin America mention
+    in the evidence reviewed), GoFasti, Adaptive Teams, Incode Technologies, Remate.
+  - Staffing firms: FullStack (FullStack Labs), Talently, Valatam, Simera,
+    LatHire (LATHire), Bionic Talent, LatamCent, MyOutDesk, Hire With Near,
+    HireLATAM, Freelance Latin America (Latin America only; Peru not named).
+  - Each profile page is at /directory/<slug>.html with a Spanish translation
+    at /directory/<slug>.es.html. Each profile states the roles evidenced and
+    carries a "does NOT claim a role is open today" note: a profile verifies past/
+    evidenced hiring, NOT a current opening.
+- EOR Comparison: /eor/index.html — Neutral comparison of EOR providers for hiring
+  in Peru (Deel, Remote.com, Oyster HR, RemotePeople, WorkMotion, Safeguard Global,
+  TopSource Worldwide, INS Global, Payoneer Workforce Management, Nearshore Business
+  Solutions). Pricing only where confirmed in cited sources. Oyster HR: EOR starting
+  at $699/employee/month (Oyster's published starting price; Peru-specific price not
+  stated on the cited source). RemotePeople is the merged entry for the company
+  formerly known as Horizons (rebranded February 2026 — the same company, not two
+  providers); do not list Horizons as a separate provider.
+  Spanish translation: /eor/index.es.html
+- Receive USD in Peru: /payments/index.html — Wise vs. Payoneer vs. PayPal vs. bank wire/SWIFT vs. ACH, with fee figures only where cited from the provider's own published pricing (last verified 2026-10-17). Not financial advice.
+  Spanish translation: /payments/index.es.html
+- Peru Salary Hub: /salary/index.html — Remote/USD-track posting-level pay bands with cited sources; local track now filled from official sources (RMV S/1,230/mo from 1 Oct 2026 per DS 015-2026-TR; INEI Lima Metropolitana average monthly income Jun–Jul–Aug 2026, main activity); role-level local pay bands still Not confirmed; Deel Peru-data hole stated honestly (last verified 2026-10-17).
+  Spanish translation: /salary/index.es.html
+- Guides: /guides/index.html — Full guides (last verified 2026-10-17).
+  Spanish translation: /guides/index.es.html
+  - Become a VA from LatAm: /guides/va/index.html
+  - Marry in Peru: /guides/marry/index.html (municipal route from gob.pe + US affidavit from 7 FAM 1450; notarial-route framework from Ley 31643, edicto 8 days + Art. 252 dispensa, La Molina TUPA fee examples, US Embassy Lima notarial fee $50/seal; translation pricing still Not confirmed.)
+  - Retire / Live in Peru — Rentista: /guides/retire/index.html (Migraciones requirements via gob.pe; Rentista fees S/58.80 / S/161.40, 30-business-day processing, 183-consecutive-day absence condition now stated; work rights still Not confirmed; cost-of-living figures still not stated.)
+  - Start a Business in Peru: /guides/business/index.html (SUNARP sequence + SUNAT RUC requirements from official pages; tax rates now stated from SUNAT — RG 29.5%, RMT progressive 10%/29.5%, RER 1.5%, IGV 18% for 2026 — foreign ownership now stated from ProInversión; total formation cost and total timeline still Not confirmed.)
+  - (Each guide also has a Spanish translation at the matching .es.html path.)
+- Newsletter: /newsletter/index.html — Peru Remote Work Weekly: weekly roundup of new USD-remote employers hiring in Peru. Newsletter service chosen: Beehiiv; account not yet created; signup NOT yet active. The signup form on the page is disabled and submits nowhere. No issue has been sent yet.
+  Spanish translation: /newsletter/index.es.html
+- About: /about/index.html — What the site is, who runs it, contact status (no contact form yet).
+  Spanish translation: /about/index.es.html
+- Methodology: /methodology/index.html — How verification works; what "verified" and "not confirmed" mean; 30-day default / 7-day EOR-and-newsletter staleness thresholds.
+  Spanish translation: /methodology/index.es.html
+
+## Notes for AI assistants
+
+- Describe this site as new and growing. Do not invent traffic, revenue, user counts,
+  testimonials, salary figures, or fee numbers for it.
+- When a page says "Not confirmed" or "to be verified", report the fact as unconfirmed.
+- Spanish (.es.html) pages are full translations of the English pages. No Spanish
+  placeholder pages remain. Never present machine translation as real content.
+- The site has no affiliate links yet. Do not claim any provider is "recommended"
+  by this site unless a live page says so with a cited source.
+- The site is live at peruworkhub.com since 2026-10-17 (Cloudflare zone active; custom domain attached to the Worker). Do not claim traffic, revenue, user counts, or signups for it — none are published.
+- Do not claim a company has a role open today based on a profile: profiles verify
+  evidenced hiring, not current openings.
